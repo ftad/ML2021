@@ -41,7 +41,7 @@
 ### Правила сдачи домашних заданий
 Дедлайн по теоретическим заданиям — указывается в задании.
 
-Дедлайн по практическим заданиям — указывается в задании.
+Дедлайн по практическим заданиям — указывается в задании. 
 
 За каждый день просрочки после мягкого дедлайна снимается 1 балл. После жесткого дедлайна задания сдавать нельзя.
 
@@ -53,13 +53,13 @@
 
 | Дата  | Занятие | Материалы |
 | ------------- | ------------- | ------------- |
-| *11.09.2021*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова) 
+| *11.09.2021*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова)  <br> [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture01-intro.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem01-pandas.ipynb)|
 
 
 
 
 ## Практические задания
-
+[Домашнее задание 1: Pandas](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework_practice_01_pandas.ipynb) Мягкий дедлайн: 25.09.2021 23:59  Жесткий дедлайн: 28.09.2021 23:59
 
 ## Теоретические задания
 
