@@ -52,14 +52,18 @@ l9GQlzJ
 | Дата  | Занятие | Материалы |
 | ------------- | ------------- | ------------- |
 | *11.09.2021*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова)  <br> [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture01-intro.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem01-pandas.ipynb)|
+| *18.09.2021*  | Линейная регрессия. | [Конспект по линейной регрессии](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture02-linregr.pdf)  <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem02-sklearn-linregr.ipynb)|
+| *25.09.2021*  | Градиентное обучение. Оценивание градиента. Основы матрично-векторного дифференцирования. | [Конспект по градиентному обучению](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture03-linregr.pdf) <br> [Семинар по векторному дифференцированию](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem03-vector-diff.pdf)|
 
 
 
 
 ## Практические задания
 [Домашнее задание 1: Pandas](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework_practice_01_pandas.ipynb) Мягкий дедлайн: 25.09.2021 23:59  Жесткий дедлайн: 28.09.2021 23:59
+[Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-02-linregr.ipynb) Мягкий дедлайн:: 11.10.20 23:59  Жесткий дедлайн: 14.10.2021 23:59
 
 ## Теоретические задания
+[Домашнее задание 1: Линейные модели.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-01-linear-models.pdf)
 
 
 
