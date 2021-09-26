@@ -60,6 +60,7 @@ l9GQlzJ
 
 ## Практические задания
 [Домашнее задание 1: Pandas](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework_practice_01_pandas.ipynb) Мягкий дедлайн: 25.09.2021 23:59  Жесткий дедлайн: 28.09.2021 23:59
+
 [Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/homeworks-practice/homework-practice-02-linregr.ipynb) Мягкий дедлайн:: 11.10.20 23:59  Жесткий дедлайн: 14.10.2021 23:59
 
 ## Теоретические задания
