@@ -56,6 +56,7 @@ l9GQlzJ
 | *25.09.2021*  | Градиентное обучение. Оценивание градиента. Основы матрично-векторного дифференцирования. | [Конспект по градиентному обучению](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture03-linregr.pdf) <br> [Семинар по векторному дифференцированию](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem03-vector-diff.pdf)|
 | *02.10.2021*  | Регуляризация. Градиентный спуск.| [Конспект по регуляризации](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture04-linregr.pdf) <br> [Ноутбук по градиентному спуску](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem03-gd.ipynb) [Ноутбук по Numpy](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem03-numpy.ipynb)|
 | *09.10.2021*  |  Линейная классификация. Метрики качества для задачи классификации. Предобработка данных. | [Конспект по линейной классификации и метрикам качества](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture04-linclass.pdf) <br> [Семинар по предобработке данных](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem04-features.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem04-features.ipynb)|
+| *16.10.2021*  |  Линейная классификация. Логистическая регрессия. AUC ROC. | [Конспект по логистической регресси](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) <br> [Семинар по AUC ROC](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem05-linclass-metrics.pdf)|
 
 
 
@@ -71,6 +72,8 @@ l9GQlzJ
 [Домашнее задание 1: Линейные модели.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-01-linear-models.pdf)
 
 [Домашнее задание 2: Векторное дифференцирование.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-02-derivatives.pdf)
+
+[Домашнее задание 3: Метрики классификации и логистическая регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-03-class_metrics.pdf)
 
 
 
