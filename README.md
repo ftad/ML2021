@@ -64,9 +64,11 @@ l9GQlzJ
 ## Практические задания
 [Домашнее задание 1: Pandas](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework_practice_01_pandas.ipynb) Мягкий дедлайн: 25.09.2021 23:59  Жесткий дедлайн: 28.09.2021 23:59
 
-[Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework-practice-02-linregr.ipynb) Мягкий дедлайн:: 11.10.20 23:59  Жесткий дедлайн: 14.10.2021 23:59
+[Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework-practice-02-linregr.ipynb) Мягкий дедлайн:: 11.10.2021 23:59  Жесткий дедлайн: 14.10.2021 23:59
 
-[Домашнее задание 3: Градиентный спуск.](https://github.com/esokolov/ml-course-hse/tree/master/2021-fall/homeworks-practice/homework-practice-03-gd) Мягкий дедлайн: 25.10.20 23:59 Жесткий дедлайн: 28.10.2021 23:59
+[Домашнее задание 3: Градиентный спуск.](https://github.com/esokolov/ml-course-hse/tree/master/2021-fall/homeworks-practice/homework-practice-03-gd) Мягкий дедлайн: 25.10.2021 23:59 Жесткий дедлайн: 28.10.2021 23:59
+
+[Домашнее задание 4: Классификация.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework-practice-04-classification.ipynb) Мягкий дедлайн: 10.11.2021 23:59 Жесткий дедлайн: 13.11.2021 23:59
 
 ## Теоретические задания
 [Домашнее задание 1: Линейные модели.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-01-linear-models.pdf)
