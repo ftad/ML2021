@@ -57,6 +57,8 @@ l9GQlzJ
 | *02.10.2021*  | Регуляризация. Градиентный спуск.| [Конспект по регуляризации](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture04-linregr.pdf) <br> [Ноутбук по градиентному спуску](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem03-gd.ipynb) [Ноутбук по Numpy](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem03-numpy.ipynb)|
 | *09.10.2021*  |  Линейная классификация. Метрики качества для задачи классификации. Предобработка данных. | [Конспект по линейной классификации и метрикам качества](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture04-linclass.pdf) <br> [Семинар по предобработке данных](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem04-features.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem04-features.ipynb)|
 | *16.10.2021*  |  Линейная классификация. Логистическая регрессия. AUC ROC. | [Конспект по логистической регресси](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) <br> [Семинар по AUC ROC](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem05-linclass-metrics.pdf)|
+| *30.10.2021*  |  SVM. Многоклассовая классификация. Калибровка вероятностей.| [Конспект по SVM](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture06-linclass.pdf) <br> [Конспект по многоклассовой классификации](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture07-linclass.pdf) <br> [Конспект по калибровке вероятностей](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem06-probs-quantile.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem06-calibration.ipynb)|
+| *13.11.2021*  | Решающее дерево. Разложение ошибки на смещение и разброс.| [Конспект DT](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture08-trees.pdf) <br> [Конспект по BVD](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture09-ensembles.pdf) <br> [Конспект семинара по DT](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem07-trees.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem07-trees.ipynb)|
 
 
 
@@ -69,6 +71,9 @@ l9GQlzJ
 [Домашнее задание 3: Градиентный спуск.](https://github.com/esokolov/ml-course-hse/tree/master/2021-fall/homeworks-practice/homework-practice-03-gd) Мягкий дедлайн: 25.10.2021 23:59 Жесткий дедлайн: 28.10.2021 23:59
 
 [Домашнее задание 4: Классификация.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework-practice-04-classification.ipynb) Мягкий дедлайн: 10.11.2021 23:59 Жесткий дедлайн: 13.11.2021 23:59
+
+[Домашнее задание 5: Решающие деревья.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework-practice-05-trees/homework-practice-05-trees.ipynb) Мягкий дедлайн: 25.11.2021 23:59 Жесткий дедлайн: 28.11.2021 23:59
+
 
 ## Теоретические задания
 [Домашнее задание 1: Линейные модели.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-01-linear-models.pdf)
