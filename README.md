@@ -59,6 +59,9 @@ l9GQlzJ
 | *16.10.2021*  |  Линейная классификация. Логистическая регрессия. AUC ROC. | [Конспект по логистической регресси](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) <br> [Семинар по AUC ROC](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem05-linclass-metrics.pdf)|
 | *30.10.2021*  |  SVM. Многоклассовая классификация. Калибровка вероятностей.| [Конспект по SVM](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture06-linclass.pdf) <br> [Конспект по многоклассовой классификации](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture07-linclass.pdf) <br> [Конспект по калибровке вероятностей](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem06-probs-quantile.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem06-calibration.ipynb)|
 | *13.11.2021*  | Решающее дерево. Разложение ошибки на смещение и разброс.| [Конспект DT](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture08-trees.pdf) <br> [Конспект по BVD](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture09-ensembles.pdf) <br> [Конспект семинара по DT](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem07-trees.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem07-trees.ipynb)|
+| *20.11.2021*  | Бэггинг. Случайный лес.| [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture09-ensembles.pdf)  [Конспект семинара по BVD](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem08-bvd.pdf)|
+| *27.11.2021*  | Градиентный бустинг.| [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture10-ensembles.pdf)  <br>  [Конспект семинара по BVD](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem08-bvd.pdf)
+| *11.12.2021*  | Градиентный бустинг.| [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture11-ensembles.pdf)  <br>  [Конспект семинара по GB](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem09-gbm-part1.pdf)
 
 
 
@@ -74,6 +77,10 @@ l9GQlzJ
 
 [Домашнее задание 5: Решающие деревья.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework-practice-05-trees/homework-practice-05-trees.ipynb) Мягкий дедлайн: 25.11.2021 23:59 Жесткий дедлайн: 28.11.2021 23:59
 
+[Домашнее задание 6: Разложение ошибки на смещение и разброс.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-practice/homework-practice-06-bvd.ipynb) Мягкий дедлайн: 07.12.2021 23:59 Жесткий дедлайн: 10.12.2021 23:59
+
+[Домашнее задание 7: Бустинг.](https://github.com/esokolov/ml-course-hse/tree/master/2021-fall/homeworks-practice/homework-practice-07-boosting) Мягкий дедлайн: 20.12.2021 23:59 Жесткий дедлайн: 20.12.2021 23:59
+
 
 ## Теоретические задания
 [Домашнее задание 1: Линейные модели.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-01-linear-models.pdf)
@@ -87,6 +94,17 @@ l9GQlzJ
 
 
 ## Соревнование
+Задача: выявление мошеннических тразнакций
+
+Это соревнование на бонусные баллы, оно не является обязательным.
+
+Ссылка для участия: https://www.kaggle.com/t/bbc6f629ab1a4e4b9a79900f94dea96b
+
+Дедлайн: 13.12.2021 23:59MSK
+
+В задании всего один бейзлайн (lightgbm), ненулевые баллы получают решения, преодолевшие его на приватном лидерборде. Все решения выше этого бейзлайна оцениваются по равномерной шкале от 0 до 5.
+
+Обратите внимание на раздел Baselines на Kaggle — там можно найти много полезного.
 
 
 ## Контрольная работа
@@ -96,4 +114,4 @@ l9GQlzJ
 [Пример варианта контрольной с прошлого года](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/midterm-fall-2020-example.pdf)
 
 ## Экзамен
-
+[Вопросы для подготовки](https://docs.google.com/document/d/1hMY0QxbU4qMpGuC8aZr1sWd5qrPdPiOl97FJU0fdpSk/edit)
