@@ -89,7 +89,7 @@ l9GQlzJ
 
 [Домашнее задание 3: Метрики классификации и логистическая регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-03-class_metrics.pdf)
 
-[Домашнее задание 4: Разложение ошибки на смещегие и разброс.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-04-bvd.pdf)
+[Домашнее задание 4: Разложение ошибки на смещение и разброс.](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/homeworks-theory/homework-theory-04-bvd.pdf)
 
 
 
